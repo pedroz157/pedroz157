@@ -1,8 +1,28 @@
-## Olá, me chamo Pedro Zione. 😄
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bem-vindos+ao+meu+perfil!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
 
+### Falando um pouco sobre mim. 🤩
+Sou Pedro Zione Sousa Neto, tenho 22 anos e sou estudante de Engenharia de Software pelo Centro Universitário Filadélfia (UNIFIL), com forte interesse em desenvolvimento back-end, área na qual busco me aprofundar, ao mesmo tempo em que busco adquirir conhecimentos em diferentes frentes da tecnologia. Sou dedicado, curioso e estou em constante evolução, sempre procurando novos desafios que contribuam para meu crescimento profissional e pessoal.
+
+- 🖥️ Atualmente, estou aprendendo estas linguagens : Java e Python
+- 🙏 Buscando opotunidades para me desenvolver
+
+ <h3 align="left">Linguagens em Aprendizado</h3>
 
 ![Java](https://img.shields.io/badge/Java-white?style=for-the-badge&logo=CoffeeScript&logoColor=red)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
+<h3 align="left">Contato!</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:meduardacardoso.121@gmail.com)
   
+## 📊 Status
+<div alinhar="centro">
   
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedroz157&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pedroz157&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pedroz157&theme=tokyonight)
+
