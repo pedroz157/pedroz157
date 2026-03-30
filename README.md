@@ -16,10 +16,11 @@ Sou Pedro Zione Sousa Neto, tenho 22 anos e sou estudante de Engenharia de Softw
 - 🖥️ Atualmente, estou aprendendo estas linguagens : Java e Python
 - 🙏 Buscando opotunidades para me desenvolver
 
- <h3 align="left">Linguagens em Aprendizado</h3>
 
-![Java](https://img.shields.io/badge/Java-white?style=for-the-badge&logo=CoffeeScript&logoColor=red)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+ | **Categoria** | **Tecnologias** |
+|:---|:---|
+| Linguagens em Aprendizado | <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" alt="Python" /> <img src="https://techstack-generator.vercel.app/java-icon.svg" width="50" height="50" alt="Java" />
+
 
 <h3 align="left">Contato!</h3>
 
