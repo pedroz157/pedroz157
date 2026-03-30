@@ -23,7 +23,7 @@ Sou Pedro Zione Sousa Neto, tenho 22 anos e sou estudante de Engenharia de Softw
 
 <h3 align="left">Contato!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:meduardacardoso.121@gmail.com)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:pedrozionesousaneto4@gmail.com)
   
 ## 📊 Status
 <div align="center">
