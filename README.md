@@ -26,9 +26,15 @@ Sou Pedro Zione Sousa Neto, tenho 22 anos e sou estudante de Engenharia de Softw
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:meduardacardoso.121@gmail.com)
   
 ## 📊 Status
-<div alinhar="centro">
-  
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedroz157&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pedroz157&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pedroz157&theme=tokyonight)
+<div align="center">
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedroz157&theme=nord_dark)
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pedroz157&theme=nord" height="165"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pedroz157&theme=nord_dark" height="165"/>
+
+</div>
